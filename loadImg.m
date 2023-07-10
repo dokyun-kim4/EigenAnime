@@ -1,4 +1,5 @@
 function [testSet,testNames,trainSet,trainNames] = loadImg(names)
+%LOADIMG Loads train & test datasets using a list of image names
     %load train dataset
     trainNames = strings(1, length(names) * 2);
     for i = 1:length(names)
