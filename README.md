@@ -6,3 +6,6 @@ Authors:
  
 # Project Description  
 An algorithm that finds someone's anime look-alike when given a photo.
+
+# Demo Instructions
+Open and run `main.mlx` to see program demo and methodology.
